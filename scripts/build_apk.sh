@@ -1,0 +1,1 @@
+cd kutum_cepte_app

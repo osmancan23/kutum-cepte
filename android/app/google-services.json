@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403600949542",
+    "project_id": "kutum-cepte",
+    "storage_bucket": "kutum-cepte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403600949542:android:923357d8b19198fa8e81e7",
+        "android_client_info": {
+          "package_name": "com.kutu.hayalhanem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa3RT7axXhM8S14wKPBoLgDG4e2FcbrvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
